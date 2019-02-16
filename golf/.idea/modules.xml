@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/golf.iml" filepath="$PROJECT_DIR$/golf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golf-common/golf-common.iml" filepath="$PROJECT_DIR$/golf-common/golf-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golf-common/golf-common-dao/golf-common-dao.iml" filepath="$PROJECT_DIR$/golf-common/golf-common-dao/golf-common-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golf-common/golf-common-pojo/golf-common-pojo.iml" filepath="$PROJECT_DIR$/golf-common/golf-common-pojo/golf-common-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golf-common/golf-common-service/golf-common-service.iml" filepath="$PROJECT_DIR$/golf-common/golf-common-service/golf-common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golf-user/golf-user.iml" filepath="$PROJECT_DIR$/golf-user/golf-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golf-user/golf-user-consumer/golf-user-consumer.iml" filepath="$PROJECT_DIR$/golf-user/golf-user-consumer/golf-user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golf-user/golf-user-provider/golf-user-provider.iml" filepath="$PROJECT_DIR$/golf-user/golf-user-provider/golf-user-provider.iml" />
+    </modules>
+  </component>
+</project>

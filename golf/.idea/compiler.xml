@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="golf-common-dao" />
+        <module name="golf-common-pojo" />
+        <module name="golf-common-service" />
+        <module name="golf-user-consumer" />
+        <module name="golf-user-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="golf" target="1.7" />
+      <module name="golf-common" target="1.7" />
+      <module name="golf-common-dao" target="1.7" />
+      <module name="golf-common-pojo" target="1.7" />
+      <module name="golf-common-service" target="1.7" />
+      <module name="golf-user" target="1.7" />
+      <module name="golf-user-consumer" target="1.7" />
+      <module name="golf-user-provider" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
